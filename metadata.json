@@ -1,0 +1,6 @@
+{
+  "name": "Rihlati Arabic E-LKPD",
+  "description": "E-LKPD Bahasa Arab interaktif Kelas VII MTs dengan konsep Pastel Fantasy Learning untuk tema Ta'aruf, Adawat Madrasiyyah, dan Yawmiyyatuna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
